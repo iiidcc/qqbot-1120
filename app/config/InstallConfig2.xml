@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<InstallConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserName>wangluhua</UserName>
+  <PassWord>kxsw1234</PassWord>
+  <DBType>MySQL</DBType>
+  <DBAddress>server=192.168.10.200;port=3306;database=QQBot;Uid=root;Pwd=kxsw1234;CharSet=utf8</DBAddress>
+  <cqhttpWS>ws://192.168.10.200:8001</cqhttpWS>
+  <cqhttpHttp>http://192.168.10.200:8000</cqhttpHttp>
+  <ManagerQQ>272795322</ManagerQQ>
+  <Groups>194855573,484936608,705467691</Groups>
+  <AddFriend>true</AddFriend>
+  <AddFriendMessage>欢迎使用狗东羊毛客服，请先添加QQ群：194855573  开启薅羊毛道路。</AddFriendMessage>
+  <AddGroup>true</AddGroup>
+  <AddGroupMessage>欢迎进入正经群，使用狗东羊毛客服，进群请先查看群置顶公告；按说明完成账号绑定或发送“教程”开启薅羊毛道路。</AddGroupMessage>
+  <SMSService>http://192.168.10.200:5780</SMSService>
+  <SMSAllowGroup>true</SMSAllowGroup>
+  <SMSMaxCount>0</SMSMaxCount>
+  <AddCookieCotify>true</AddCookieCotify>
+  <DisableCookieCotify>true</DisableCookieCotify>
+</InstallConfig>
